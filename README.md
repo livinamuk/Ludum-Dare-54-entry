@@ -1,4 +1,4 @@
-# Ludum Dare #54 hard mode entry - OpenGL first person shooter 
+# Ludum Dare #54 hard mode entry
 
 ![](https://www.principiaprogrammatica.com/dump/vlcsnap.png)
 
